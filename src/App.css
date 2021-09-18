@@ -1,0 +1,29 @@
+.rdw-editor-wrapper {
+  height: 300px;
+  margin-top: 0;
+}
+
+.rdw-editor-wrapper .rdw-editor-toolbar {
+  background-color: #45b8ac;
+  border-radius: 10px;
+  height: 90px;
+}
+
+.rdw-wrapper-1281 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rdw-editor-main {
+  background-color: ivory;
+  border-radius: 5px;
+  padding-left: 7px;
+}
+
+/* .rdw-embedded-wrapper {
+  visibility: hidden;
+}
+
+.rdw-image-wrapper {
+  visibility: hidden;
+} */
